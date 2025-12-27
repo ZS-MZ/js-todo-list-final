@@ -22,7 +22,8 @@
 فهمیدم که چقدر مهمه که بعد از هر تغییر داده، لیست رو دوباره رندر کنیم و localStorage رو آپدیت کنیم. همچنین ویرایش inline خیلی تجربه کاربری رو بهتر کرد.
 
 ## لینک دمو زنده
-https://USERNAME.github.io/js-todo-list-final/
+https://ZS-MZ.github.io/js-todo-list-final/
 
 
 ساخت با ❤️ توسط زهرا سادات موسوی زاده
+
